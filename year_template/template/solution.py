@@ -26,6 +26,4 @@ class Solution:
 
 if __name__ == "__main__":
     solution = Solution()
-    solution.solve_part_1()
-    solution.solve_part_2()
     solution.save_results()
